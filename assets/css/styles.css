@@ -56,24 +56,34 @@ h2 {
         padding: 50px;
         color: green;
         border: 2px solid blue;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 4em;
+        letter-spacing: 2px;
         
     }
+    /* Third section of radio buttons */
     .sect3 {
         padding: 50px;
         color: green;
         border: 2px solid blue;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 4em;
+        letter-spacing: 2px;
         
     }
+    /* Buttons increase for button on section 1 */
     .sect1 input[type="radio"] {
         -ms-transform: scale(1.5); /* IE 9 */
         -webkit-transform: scale(1.5); /* Chrome, Safari, Opera */
         transform: scale(2.5);
     }
+    /* Buttons increase for button on section 2 */
     .sect2 input[type="radio"] {
         -ms-transform: scale(1.5); /* IE 9 */
         -webkit-transform: scale(1.5); /* Chrome, Safari, Opera */
         transform: scale(2.5);
     }
+    /* Buttons increase for button on section 3 */
     .sect3 input[type="radio"] {
         -ms-transform: scale(1.5); /* IE 9 */
         -webkit-transform: scale(1.5); /* Chrome, Safari, Opera */
