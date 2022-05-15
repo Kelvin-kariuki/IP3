@@ -11,7 +11,7 @@ html{
 }
 /* This code section has been inspired from https://codepen.io/FrankieDoodie/pen/dgVGad as shining text */
 h2 {
-    border: 2px solid red;
+    /* border: 2px solid red; */
     color: white;
     margin-top: 80px;
     padding-left: 50px;
@@ -43,7 +43,7 @@ h2 {
     .sect1 {
         padding: 50px;
         color: green;
-        border: 2px solid blue;
+        /* border: 2px solid blue; */
         font-family: 'Times New Roman', Times, serif;
         font-size: 4em;
         letter-spacing: 2px;
@@ -55,7 +55,7 @@ h2 {
     .sect2 {
         padding: 50px;
         color: green;
-        border: 2px solid blue;
+        /* border: 2px solid blue; */
         font-family: 'Times New Roman', Times, serif;
         font-size: 4em;
         letter-spacing: 2px;
@@ -65,7 +65,7 @@ h2 {
     .sect3 {
         padding: 50px;
         color: green;
-        border: 2px solid blue;
+        /* border: 2px solid blue; */
         font-family: 'Times New Roman', Times, serif;
         font-size: 4em;
         letter-spacing: 2px;
@@ -91,7 +91,7 @@ h2 {
     }
     /* Submit buttons */
    .button{
-       border: 2px solid rebeccapurple;
+       /* border: 2px solid rebeccapurple; */
     padding: 50px;
    }
    .button .sub{
@@ -100,8 +100,9 @@ h2 {
     height: 40px;
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: chartreuse;
+    background-color: royalblue;
     white-space: normal;
+    color: #fff;
 
    }
    .button .res{
@@ -110,8 +111,9 @@ h2 {
     height: 40px;
     padding-bottom: 10px;
     padding-top: 10px;
-    background-color: chartreuse;
+    background-color: goldenrod;
     white-space: normal;
+    color: white
 }
 .text {
     padding: 50px;
@@ -126,3 +128,4 @@ footer{
     text-align: center;
     color: #fff;
 }
+
