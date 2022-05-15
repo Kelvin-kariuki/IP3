@@ -38,4 +38,11 @@ h2 {
           background-position: 500%;
         }
       }
-    
+    /* Section for the questions and radio buttons */
+
+    .sect1 {
+        padding: 50px;
+        color: green;
+        border: 2px solid blue;
+        
+    }
