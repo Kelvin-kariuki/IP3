@@ -1,4 +1,10 @@
 html{
     background-image: url("/assets/images/Gaming-Quiz.jpg");
     background-repeat: no-repeat;
+    margin: auto;
+    padding: auto;
+    background-size: cover;
+    background-position: center center;
+
+
 }
