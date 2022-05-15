@@ -89,4 +89,35 @@ h2 {
         -webkit-transform: scale(1.5); /* Chrome, Safari, Opera */
         transform: scale(2.5);
     }
+    /* Submit buttons */
+   .button{
+       border: 2px solid rebeccapurple;
+    padding: 50px;
+   }
+   .button .sub{
+    border-radius: 3px;
+    width: 100px;
+    height: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: chartreuse;
+    white-space: normal;
 
+   }
+   .button .res{
+    border-radius: 3px;
+    width: 100px;
+    height: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: chartreuse;
+    white-space: normal;
+}
+.text {
+    padding: 50px;
+
+    
+    padding-bottom: 10px;
+    padding-top: 10px;
+   
+}
